@@ -75,3 +75,5 @@
 
 # Cache files for the editor to use
 /DudesGMTK2023/DerivedDataCache/*
+
+!/DudesGMTK2023/DudesGMTK2023_WwiseProject/*
