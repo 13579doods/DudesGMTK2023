@@ -77,3 +77,7 @@
 /DudesGMTK2023/DerivedDataCache/*
 
 !/DudesGMTK2023/DudesGMTK2023_WwiseProject/*
+
+# Don't ignore Wwise .dll and .lib files as these are needed for compiling
+!Plugins/Wwise/*.dll
+!Plugins/Wwise/*.lib
